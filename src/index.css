@@ -169,6 +169,10 @@ body {
     color: #a451f1;
 }
 
+.hamburger-menu:hover {
+    cursor: pointer;
+}
+
 
 /* =========================================================
    HOME PAGE
@@ -1299,6 +1303,8 @@ body {
         align-items: center;
         justify-content: center;
         gap: 1.2rem;
+        padding: 8px 10px;
+        box-sizing: border-box;
         z-index: 1000;
         background: rgba(12, 12, 12, 0.342);
         backdrop-filter: blur(10px);
@@ -1308,7 +1314,6 @@ body {
 
     .nav-links.open {
         left: 0;
-        padding: 8px 10px;
     }
 
     .fav-count {
