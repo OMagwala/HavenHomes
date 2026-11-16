@@ -65,6 +65,27 @@ public/           - Public application assets
 index.html        - Main HTML entry point
 vite.config.js    - Vite configuration
 
+SCREENSHOTS
+----------
+
+### Homepage
+![HavenHomes Homepage](screenshots/homepage.jpg)
+
+### Property Listings
+![Property Listings](screenshots/property-listings.jpg)
+
+### Property Agents
+![Property Agents](screenshots/property-agents.jpg)
+
+### Favourites
+![Favourites](screenshots/favourites.jpg)
+
+### Enquiry Page
+![Enquiry Page](screenshots/enquiry.jpg)
+
+### Property Gallery
+![Property Gallery](screenshots/property-gallery.jpg)
+
 MAIN PAGES
 ----------
 Home
